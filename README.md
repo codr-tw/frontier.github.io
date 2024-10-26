@@ -1,6 +1,4 @@
-### 軟體設計、開發、上架、營運
-
-> 專精 `iOS` `macOS` `watchOS` `visionOS`
+專精 `iOS` `macOS` `watchOS` `visionOS`
 
 --- 
 
