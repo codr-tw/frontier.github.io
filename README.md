@@ -1,11 +1,3 @@
-# 營業項目
-
-**專精 iOS macOS watchOS visionOS** 
-
----
-
----
-
 # 作品集
 
 ## My IP （iOS/iPadOS/macOS/visionOS）
