@@ -1,6 +1,6 @@
 # 作品集
 
-## My IP （iOS/iPadOS/macOS/visionOS）
+## My IP（iOS/iPadOS/macOS/visionOS）
 
 ![Artboard](https://github.com/user-attachments/assets/3a6b7594-5dcf-4ced-8161-6bce9b9f4b14)
 
