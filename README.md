@@ -10,7 +10,7 @@
 
 ---
 
-## Janus: Face Before After
+## [Janus: Face Before After](https://codr.tw/janus)
 
 > Auto-Aligned Face Transformations
 
