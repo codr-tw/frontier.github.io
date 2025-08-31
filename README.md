@@ -1,6 +1,6 @@
 # Showcase
 
-## FaceLapse: Face Timelapse Videos
+## [FaceLapse: Face Timelapse Videos](https://facelapse.app)
 
 > Transform your photos into captivating time-lapse sequences with AI auto-alignment. Perfect for TikTok, Reels, and social media.
 
