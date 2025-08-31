@@ -4,8 +4,7 @@
 
 > Transform your photos into captivating time-lapse sequences with AI auto-alignment. Perfect for TikTok, Reels, and social media.
 
-<img width="991" height="682" alt="Screenshot 2025-08-31 at 8 41 35 AM" src="https://github.com/user-attachments/assets/2fc5dc13-827e-4701-ba32-3de10dc41d69" />
-
+![Artboard](https://github.com/user-attachments/assets/2fc5dc13-827e-4701-ba32-3de10dc41d69)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Download_on_the_App_Store_RGB_blk.svg/120px-Download_on_the_App_Store_RGB_blk.svg.png">](https://apps.apple.com/app/id6751192578?pt=127418135&ct=official-website&mt=8)
 
