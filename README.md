@@ -44,7 +44,7 @@
 
 > Earthquake & Vibration Meter
 
-![Seismometer](https://github.com/user-attachments/assets/f5043b41-0c70-4110-b900-7d095b661567)
+![Seismometer](https://github.com/user-attachments/assets/249465ce-708e-4cb2-a8b7-e6cca59aef6b)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Download_on_the_App_Store_RGB_blk.svg/120px-Download_on_the_App_Store_RGB_blk.svg.png">](https://apps.apple.com/app/id6761700650?pt=127418135&ct=official-website&mt=8)
 
